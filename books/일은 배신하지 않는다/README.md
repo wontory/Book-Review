@@ -6,4 +6,4 @@
 김종민 지음  
 i-Scream media
 
-![일은-배신하지-않는다](../../images/일은-배신하지-않는다.jpeg)
+<img src="../../images/일은-배신하지-않는다.jpeg" width="238px" height="350px"/>

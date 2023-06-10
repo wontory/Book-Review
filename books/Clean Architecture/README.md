@@ -6,4 +6,4 @@
 로버트 C. 마틴 지음 | 송준이 옮김  
 인사이트
 
-![Clean-Architecture](../../images/Clean-Architecture.jpeg)
+<img src="../../images/Clean-Architecture.jpeg" width="267px" height="350px"/>

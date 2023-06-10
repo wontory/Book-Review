@@ -6,4 +6,4 @@
 로버트 C. 마틴 지음 | 박재호, 이해영 옮김  
 인사이트
 
-![Clean-Code](../../images/Clean-Code.jpeg)
+<img src="../../images/Clean-Code.jpeg" width="265px" height="350px"/>
