@@ -5,6 +5,6 @@
 
 ## Books
 
-| Clean Code                            | Clean Architecture                                    |     |     |
-| ------------------------------------- | ----------------------------------------------------- | --- | --- |
-| ![Clean-Code](images/Clean-Code.jpeg) | ![Clean-Architecture](images/Clean-Architecture.jpeg) |     |     |
+| [Clean Code](books/Clean-Code)        | [Clean Architecture](books/Clean-Architecture)        |
+| :-----------------------------------: | :---------------------------------------------------: |
+| ![Clean-Code](images/Clean-Code.jpeg) | ![Clean-Architecture](images/Clean-Architecture.jpeg) |
