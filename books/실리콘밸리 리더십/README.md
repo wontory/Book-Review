@@ -6,4 +6,4 @@
 마이클 롭 지음 | 김정혜 옮김  
 한빛미디어
 
-<img src="../../images/실리콘밸리-리더십.jpegg" width="246px" height="350px"/>
+<img src="../../images/실리콘밸리-리더십.jpeg" width="246px" height="350px"/>
